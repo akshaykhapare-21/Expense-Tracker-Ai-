@@ -82,7 +82,7 @@ streamlit run app.py
 
 👤 Author
 
-Akshay — AI & Data Enthusiast
+AKSHAY KHAPARE
 
 ⭐ Final Thought
 
